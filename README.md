@@ -66,8 +66,8 @@
 
 ## 👬 팀 소개
 - 홍영환 - <a href="https://github.com/Imagine-ENTZ/Server">백엔드 (Spring Boot)</a>, Azure API 서버 구축 및 배포, WebRTC, Spring STOMP, STUN TURN 서버 구축 <a href="https://github.com/Imagine-ENTZ/AirDrawing">프론트 (React)</a>, WebSocket 연결, Canvas그림그리기, Tesseract 문자 변환, 1 vs 1 화상게임 구현, 손모양 인식 모델 적용, WORD-TRACING 구현
-- 박민지 - <a href="https://github.com/Imagine-ENTZ/AirDrawing">프론트 (React)</a> , 게임 타이머, DECORATIVE GAME 전체 구현
-- 김영림 - <a href="https://github.com/Imagine-ENTZ/AirDrawing">프론트 (React)</a> WORD-TRACING 구현, 메인 배경 및 게임 배경, 이미지 캡쳐
+- 박민지 - <a href="https://github.com/Imagine-ENTZ/AirDrawing">프론트 (React)</a>, 게임 타이머, WORD-TRACING 구현
+- 김영림 - <a href="https://github.com/Imagine-ENTZ/AirDrawing">프론트 (React)</a>, DECORATING GAME 전체 구현, 메인 배경 및 게임 배경, 이미지 캡쳐
 
 ## 🖥️ 프로젝트 소개
 
